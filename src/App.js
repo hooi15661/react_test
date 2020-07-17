@@ -13,6 +13,8 @@ function App() {
           Trying out on GitHub
           <br />
           This is confusing...
+          <br />
+          Going to take some times
         </p>
     </div>
   );
