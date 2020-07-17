@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "888c93308fd407b5015dbfaea6576d07",
+    "revision": "4bd3915d373181a78b99040d1076ba0d",
     "url": "/react_test/index.html"
   },
   {
-    "revision": "92d926a19350eebb05b8",
-    "url": "/react_test/static/css/main.5f361e03.chunk.css"
+    "revision": "5ef0c736f959d4e61699",
+    "url": "/react_test/static/css/main.a3a1c108.chunk.css"
   },
   {
     "revision": "fc0ba622b53c301a3420",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react_test/static/js/2.cb956790.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "92d926a19350eebb05b8",
-    "url": "/react_test/static/js/main.2e797142.chunk.js"
+    "revision": "5ef0c736f959d4e61699",
+    "url": "/react_test/static/js/main.536e8053.chunk.js"
   },
   {
     "revision": "0acfb237109b04b55a98",
@@ -26,5 +26,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
     "url": "/react_test/static/media/logo.5d5d9eef.svg"
+  },
+  {
+    "revision": "5c0fc6dbc0c8bfb07fb557d17837d4aa",
+    "url": "/react_test/static/media/take_money.5c0fc6db.gif"
   }
 ]);
