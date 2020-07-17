@@ -11,6 +11,8 @@ function App() {
           Testing by Chris Hooi
           <br />
           Trying out on GitHub
+          <br />
+          This is confusing...
         </p>
     </div>
   );
